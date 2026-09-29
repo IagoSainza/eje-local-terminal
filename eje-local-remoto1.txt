@@ -1,1 +1,3 @@
 cd - para abrir el ausuario
+mkdir para crear una caprtea
+cd y el nombre de carpeta o arrastrar
