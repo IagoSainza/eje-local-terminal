@@ -6,3 +6,4 @@ git add . mover los ficheros para poder commitear.
 git branch crea una rama secundaria
 git commit -m para commitear
 otros datos
+prueba de error
