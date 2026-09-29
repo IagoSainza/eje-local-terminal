@@ -1,3 +1,5 @@
 cd - para abrir el ausuario
 mkdir para crear una caprtea
 cd y el nombre de carpeta o arrastrar
+git init para crear el repositorio una rama main por ejemplo
+git add . mover los ficheros para poder commitear.
