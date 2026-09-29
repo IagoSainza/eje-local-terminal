@@ -5,3 +5,4 @@ git init para crear el repositorio una rama main por ejemplo
 git add . mover los ficheros para poder commitear.
 git branch crea una rama secundaria
 git commit -m para commitear
+prueba de error
